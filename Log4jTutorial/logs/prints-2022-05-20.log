@@ -1,0 +1,7 @@
+12:55:31.826 [main] DEBUG alpha.SampleLog4TestCase - Setting chrome driver property
+12:55:33.194 [main] INFO  alpha.SampleLog4TestCase - Window Maximized
+12:55:33.194 [main] DEBUG alpha.SampleLog4TestCase - Now hitting Amazon server
+12:55:36.018 [main] INFO  alpha.SampleLog4TestCase - Landed on amazon home page
+12:55:39.562 [main] DEBUG alpha.SampleLog4TestCase - Getting the frames count
+12:55:39.591 [main] INFO  alpha.SampleLog4TestCase - Frames count retreived
+12:55:39.609 [main] INFO  alpha.SampleLog4TestCase - Successfully switched to frame

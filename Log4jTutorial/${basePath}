@@ -1,0 +1,9 @@
+12:13:37.386 [main] ERROR alpha.Demo - error message
+12:13:37.387 [main] ERROR alpha.Demo - Button is not displayed
+12:13:37.387 [main] FATAL alpha.Demo - Button is missing
+12:13:47.464 [main] ERROR alpha.Demo - error message
+12:13:47.465 [main] ERROR alpha.Demo - Button is not displayed
+12:13:47.465 [main] FATAL alpha.Demo - Button is missing
+12:14:11.445 [main] ERROR alpha.Demo - error message
+12:14:11.446 [main] ERROR alpha.Demo - Button is not displayed
+12:14:11.446 [main] FATAL alpha.Demo - Button is missing
